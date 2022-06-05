@@ -1,2 +1,2 @@
 # text-recog-bot
-It is a text recognition Bot mad with Python
+It is a text recognition Bot made with Python
